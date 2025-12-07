@@ -1,0 +1,5 @@
+{
+  "name": "Z-Image-Turbo Web",
+  "description": "A client-side web application to generate images using the ModelScope Z-Image-Turbo model via OpenAI-compatible API.",
+  "requestFramePermissions": []
+}
