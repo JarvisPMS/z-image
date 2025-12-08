@@ -2,6 +2,11 @@
 
 ZImage 是一个包含两个子项目的图像处理和生成平台，提供了 Web 和桌面两种使用方式。
 
+![Web 应用展示](img/web.jpg)
+![Python 应用展示](img/python.jpg)
+
+
+
 ## 项目结构
 
 ```
