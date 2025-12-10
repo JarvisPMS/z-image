@@ -1,8 +1,17 @@
 # ZImage 项目
 
-ZImage 是一个包含两个子项目的图像处理和生成平台，提供了 Web 和桌面两种使用方式。
+ZImage 是一个包含两个子项目的图像处理和生成平台，提供了 Web 和桌面两种使用方式。 桌面版使用Python和Swift编写。macOS的版本还整理中...
 
+
+## React/TypeScript Web
 ![Web 应用展示](img/web.jpg)
+
+## macOS-Swift
+![macOS](img/mac11.jpg)
+![macOS](img/mac22.jpg)
+
+
+## Windows Python
 ![Python 应用展示](img/python.jpg)
 
 
