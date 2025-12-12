@@ -53,6 +53,22 @@ zimagepython/*.jpeg
 zimagepython/zimage/
 
 # =============================================================================
+# macOS Project (macOS/)
+# =============================================================================
+
+# Xcode User Data
+macOS/**/xcuserdata/
+
+# Build
+macOS/build/
+macOS/dist/
+macOS/DerivedData/
+
+# Swift Package Manager
+macOS/.build/
+macOS/Packages/
+
+# =============================================================================
 # Common Ignore Rules
 # =============================================================================
 
@@ -66,6 +82,11 @@ zimagepython/zimage/
 # OS
 Thumbs.db
 .DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
 
 # Logs
 logs
